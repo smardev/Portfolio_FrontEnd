@@ -45,7 +45,7 @@ To get the project running on your local machine, follow these steps:
 
 1. Clone the repository:
 ```bash
-git clone https://your-repository-url.git
+git clone https://github.com/smardev/Portfolio_FrontEnd.git
 ```
 
 2. Navigate to the project directory:
@@ -86,7 +86,6 @@ Instructions for deploying the production build of the site.
 If you would like to contribute to this project, please fork the repository and submit a pull request.
 
 ## License
-Specify the license under which the project is made available.
 
 ## Contact
-For any additional questions or comments, please contact me directly.
+
